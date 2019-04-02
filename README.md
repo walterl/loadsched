@@ -63,7 +63,7 @@ Schedule files are parsed according to the following rules:
 > Schedules are cumulative, i.e. stage 3 will include the times as scheduled
 > for the preceding stages 1 and 2.
 
-See [`schedule.txt`](https://github.com/walterl/loadsched/blob/master/requirements.txt) as an example. It was manually transformed into text from [this schedule](http://www.tshwane.gov.za/sites/Departments/Public-works-and-infrastructure/Pages/Load-Shedding.aspx). (Yay [nvim](https://neovim.io)!)
+See [`schedule.txt`](https://github.com/walterl/loadsched/blob/master/schedule.txt) as an example. It was manually transformed into text from [this schedule](http://www.tshwane.gov.za/sites/Departments/Public-works-and-infrastructure/Pages/Load-Shedding.aspx). (Yay [nvim](https://neovim.io)!)
 
 ## What is Load Shedding?
 
